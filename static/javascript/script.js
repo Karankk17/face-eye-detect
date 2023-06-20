@@ -1,0 +1,1 @@
+alert("This page requires permission to access your camera.")

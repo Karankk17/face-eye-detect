@@ -1,0 +1,19 @@
+
+
+.heading{
+    text-align: center;
+    color: burlywood;
+    font-size: 300%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.Camera{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 2px solid;
+    border-color: black;
+    text-align: center;
+}
